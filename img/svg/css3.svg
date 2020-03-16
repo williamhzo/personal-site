@@ -1,25 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1"
-	 id="svg3476" sodipodi:docname="CSS3.svg" inkscape:version="0.91 r13725" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="290.188px"
-	 height="409.6px" viewBox="0 0 290.188 409.6" enable-background="new 0 0 290.188 409.6" xml:space="preserve">
-<sodipodi:namedview  id="base" inkscape:window-width="1366" fit-margin-bottom="0" fit-margin-right="0" inkscape:pageshadow="2" inkscape:pageopacity="0.0" inkscape:window-x="0" inkscape:window-height="704" inkscape:window-y="27" inkscape:current-layer="layer1" inkscape:document-units="px" inkscape:window-maximized="1" showgrid="false" inkscape:zoom="0.35" pagecolor="#ffffff" inkscape:cy="256" borderopacity="1.0" fit-margin-top="0" bordercolor="#666666" inkscape:cx="181.367" fit-margin-left="0">
-	</sodipodi:namedview>
-<g id="layer1" transform="translate(-193.633,-276.3622)" inkscape:groupmode="layer" inkscape:label="Calque 1">
-	<g id="g3013" transform="translate(119,276.3622)">
-		<path id="path2999" inkscape:connector-curvature="0" fill="#FAFAFA" d="M142.927,0h44v18.4h-25.602v18.4h25.602v18.4h-44V0z"/>
-		<path id="path3001" inkscape:connector-curvature="0" fill="#FAFAFA" d="M195.727,0h44v16h-25.6v3.2h25.6V56h-44V39.2h25.6V36
-			h-25.6V0z"/>
-		<path id="path3003" inkscape:connector-curvature="0" fill="#FAFAFA" d="M248.526,0h44v16h-25.6v3.2h25.6V56h-44V39.2h25.602V36
-			h-25.602V0L248.526,0z"/>
-		<g>
-			<path fill="#FAFAFA" d="M74.633,80.496l26.409,296.205L219.549,409.6l118.835-32.944L364.82,80.496H74.633z M304.046,214.573
-				l-0.888,9.756l-8.535,95.641l-0.548,6.138l-74.349,20.605v0.006l-0.167,0.047l-74.417-20.658l-5.089-57.042h16.808h19.659
-				l2.587,28.975l40.459,10.925l0.034-0.009v-0.003l40.517-10.937l4.218-47.115h-44.608h-0.126h-81.17l-3.256-36.328h84.426h0.126
-				h47.758l3.307-37.2h-51.064h-0.126h-87.666l-3.303-36.329h90.969h0.126h90.877L304.046,214.573z"/>
-		</g>
-	</g>
-</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="55px" height="76px" viewBox="0 0 55 76" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #071E3D;">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>css3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="css3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#071E3D" x="0" y="0" width="55" height="76"></rect>
+        <g fill="#F7F1E3" fill-rule="nonzero">
+            <polygon id="path2999" points="12.6757317 0 20.7245122 0 20.7245122 3.36585366 16.0412195 3.36585366 16.0412195 6.73170732 20.7245122 6.73170732 20.7245122 10.097561 12.6757317 10.097561"></polygon>
+            <polygon id="path3001" points="22.3342683 0 30.3830488 0 30.3830488 2.92682927 25.700122 2.92682927 25.700122 3.51219512 30.3830488 3.51219512 30.3830488 10.2439024 22.3342683 10.2439024 22.3342683 7.17073171 27.0171951 7.17073171 27.0171951 6.58536585 22.3342683 6.58536585"></polygon>
+            <polygon id="path3003" points="31.992622 0 40.0414024 0 40.0414024 2.92682927 35.3584756 2.92682927 35.3584756 3.51219512 40.0414024 3.51219512 40.0414024 10.2439024 31.992622 10.2439024 31.992622 7.17073171 36.6759146 7.17073171 36.6759146 6.58536585 31.992622 6.58536585 31.992622 0"></polygon>
+            <g id="Group" transform="translate(0.067134, 14.634146)">
+                <path d="M0.115792683,0.0907317073 L4.94670732,54.2745732 L26.6248171,60.2926829 L48.3629268,54.2663415 L53.1987805,0.0907317073 L0.115792683,0.0907317073 Z M42.0815854,24.6170122 L41.9191463,26.4016463 L40.3578659,43.8969512 L40.257622,45.0197561 L26.6571951,48.7889634 L26.6571951,48.790061 L26.6266463,48.7986585 L13.0137805,45.0197561 L12.0828659,34.5852439 L15.1575,34.5852439 L18.7536585,34.5852439 L19.2268902,39.8855488 L26.6279268,41.8840244 L26.6341463,41.882378 L26.6341463,41.8818293 L34.0457927,39.8811585 L34.817378,31.262561 L26.657378,31.262561 L26.6343293,31.262561 L11.7861585,31.262561 L11.1905488,24.6171951 L26.6343293,24.6171951 L26.657378,24.6171951 L35.3935976,24.6171951 L35.9985366,17.8123171 L26.657561,17.8123171 L26.6345122,17.8123171 L10.5980488,17.8123171 L9.99384146,11.1667683 L26.6345122,11.1667683 L26.657561,11.1667683 L43.2814024,11.1667683 L42.0815854,24.6170122 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
 </svg>
