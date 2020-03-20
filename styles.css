@@ -12,12 +12,118 @@ Assets folder
 
 */
 
+/* 
+
+Color codes:
+main background #C7C79E 
+secondary tone #071E3D
+
+Fonts:
+Work Sans
+Work Sans Light 
+
+Assets folder
+
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:300,500,600&display=swap');
+
 body {
   margin: 0;
   padding: 0;
+  background-color: #f7f1e3;
+  font-family: 'Work Sans', Helvetica, Arial, sans-serif;
 }
 
+main {}
+
 #hero {
+  color: #0d0d25;
+  position: relative;
+}
+
+.hero-container {
+  width: 420px;
   height: 100vh;
-  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.hero-text h1 {
+  font-size: 3.2em;
+  line-height: 1.5em;
+  font-weight: 600;
+  margin: 0 auto 23px;
+  letter-spacing: 1px;
+}
+
+.hero-text p {
+  font-size: 1.2em;
+  font-weight: 300;
+  margin-bottom: 45px;
+}
+
+#hero .socials {
+  margin-bottom: 45px;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+
+#hero img {
+  width: 35px;
+}
+
+.socials a {
+  margin-right: 49px;
+}
+
+/* .cta-btn {
+  margin-top: 45px;
+  display: flex;
+  justify-content: baseline;
+}
+
+.cta-btn a {
+  text-decoration: none;
+  background-color: #071e3d;
+  color: #f7f1e3;
+  padding: 18px 32px;
+  border-radius: 50px;
+} */
+
+#showcase {}
+
+.container {
+  background-color: #0d0d25;
+  color: #f7f1e3;
+  padding: 100px 75px;
+}
+
+.container>p {
+  font-weight: 300;
+  margin: 0 auto;
+  width: 420px;
+  text-align: center;
+}
+
+.tech-block {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.tech-block h3 {
+  margin: 0 0 50px;
+  font-weight: 300;
+}
+
+.frontend-block {
+  text-align: left;
+}
+
+.backend-block {
+  text-align: right;
 }
