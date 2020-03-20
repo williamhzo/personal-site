@@ -1,0 +1,23 @@
+/* 
+
+Color codes:
+main background #F7F1E3 
+dark blue #071E3D
+
+Fonts:
+Work Sans
+Work Sans Light 
+
+Assets folder
+
+*/
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#hero {
+  height: 100vh;
+  width: 100%;
+}
