@@ -35,7 +35,8 @@ body {
   font-family: 'Work Sans', Helvetica, Arial, sans-serif;
 }
 
-main {}
+main {
+}
 
 #hero {
   color: #0d0d25;
@@ -94,7 +95,8 @@ main {}
   border-radius: 50px;
 } */
 
-#showcase {}
+#showcase {
+}
 
 .container {
   background-color: #0d0d25;
@@ -102,7 +104,7 @@ main {}
   padding: 100px 75px;
 }
 
-.container>p {
+.container > p {
   font-weight: 300;
   margin: 0 auto;
   width: 420px;
@@ -126,4 +128,20 @@ main {}
 
 .backend-block {
   text-align: right;
+}
+
+.logos-frontend {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-column-gap: 50px;
+  grid-row-gap: 50px;
+  justify-items: center;
+}
+
+.logos-backend {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-column-gap: 50px;
+  grid-row-gap: 50px;
+  justify-items: center;
 }
